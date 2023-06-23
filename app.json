@@ -1,7 +1,7 @@
 {
-    "name": "Sophia ᴍᴜsɪᴄ",
+    "name": "𓆩᪵ᴠɴɴᴅ🌿⃤ᴍᴜꜱɪᴄ𓆪̥乛[🇮🇳]™",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/26aa5ce660ccb0ebdb38c.jpg",
+    "logo": "https://te.legra.ph/file/389440a8556f7219d3dea.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -90,16 +90,6 @@
      "SPOTIFY_CLIENT_SECRET": {
         "description": "Spotify Client Secret Get From developer.spotify.com.",
         "value": "7f92897a59464ddbbf00f06cd6bda7fc",
-        "required": false
-      },
-       "UPSTREAM_BRANCH": {
-        "description": "Branch ",
-        "value": "main",
-        "required": false
-      },
-       "UPSTREAM_REPO": {
-        "description": "Your Fork Repo link ",
-        "value": "https://github.com/AbhiModszYT/AMMusic",
         "required": false
       },
       "LOG_GROUP_ID": {
